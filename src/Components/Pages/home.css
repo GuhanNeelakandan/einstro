@@ -1,0 +1,101 @@
+
+  
+  .text-content {
+    max-width: 95%;
+    margin: 60px 0px;
+  }
+  
+  .text-content h1 {
+    font-size: 3.5em;
+    margin: 0;
+    font-weight: 900;
+    font-family: "Metropolis-Black", sans-serif;
+  }
+  
+  .text-content .highlight {
+    color: #d92027;
+  }
+  
+  .text-content p {
+    font-size: 1.2em;
+    margin: 20px 0;
+    color: #818181;
+    font-weight: 300;
+    word-spacing: 5px;
+    font-family: "Metropolis-Medium", sans-serif;
+  }
+  
+  .apply-button {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #d92027;
+    color: white;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: "Metropolis-light", sans-serif;
+  }
+  
+  .apply-button:hover {
+    background-color: #ff0000;
+  }
+  
+  .social-icons {
+    margin-top: 100px;
+  }
+  
+  .social-icons a {
+    margin-right: 30px;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.5em;
+  }
+
+ .f-color{
+    color: #1877F2;
+  }
+  .t-color{
+    color: #1DA1F2;
+  }
+
+  .i-color{
+    color: #FCAF45;
+  }
+  
+  .image-content img {
+    max-width: 100%;
+    height: 550px;
+  }
+
+  .graduation-banner{
+    position: relative;
+    width:100%;
+    height: 550px;
+    overflow: hidden;
+  }
+
+
+
+  .banner-bg{
+    width: 550px;
+    height: 550px;
+    background-color:#d92027;
+    border-top-left-radius: 95%;
+    border-bottom-left-radius: 20%;
+    position: absolute;
+    top: 140px;
+    right: 0px;
+    overflow: hidden;
+  }
+
+  .image-content{
+    position: absolute;
+    top: 5px;
+    right: 85px;
+  }
+
+ 

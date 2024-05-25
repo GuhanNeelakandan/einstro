@@ -1,0 +1,42 @@
+.country-card{
+    width: 25%;
+    height: 350px;
+    margin: 20px 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 20px;
+   
+}
+
+.country-slide{
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.country-main h1{
+    color: #10154e;
+    text-align: center;
+    font-family: "Metropolis-Bold", sans-serif;
+}
+
+.swiper-slide .country-image{
+    border-radius: 30px;
+    width: 370px;
+    height: 250px;
+    object-fit: cover;
+    object-position: 100% 10%;
+}
+
+.country-content{
+    padding: 20px 10px;
+    font-size: 20px;
+    font-family: "Metropolis-Light", sans-serif;
+
+}
+
+.country-content h2{
+    color: #10154e;
+    font-weight: 900;
+    font-family: "Metropolis-SemiBold", sans-serif;
+    
+}

@@ -1,0 +1,37 @@
+/* In your main CSS file (e.g., App.css) */
+@import 'swiper/css';
+
+body{
+  background-color: white;
+}
+
+@font-face {
+  font-family: 'Metropolis-Light';
+  src: url(../src/fonts/Metropolis-Thin.otf);
+}
+
+@font-face {
+  font-family: 'Metropolis-Black';
+  src: url(../src/fonts/Metropolis-Black.otf);
+}
+
+@font-face {
+  font-family: 'Metropolis-Black-italic';
+  src: url(../src/fonts/Metropolis-BlackItalic.otf);
+}
+
+@font-face {
+  font-family: 'Metropolis-SemiBold';
+  src: url(../src/fonts/Metropolis-SemiBold.otf);
+}
+
+@font-face {
+  font-family: 'Metropolis-Bold';
+  src: url(../src/fonts/Metropolis-Bold.otf);
+}
+
+@font-face {
+  font-family: 'Metropolis-Medium';
+  src: url(../src/fonts/Metropolis-Medium.otf);
+}
+

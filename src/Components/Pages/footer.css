@@ -1,0 +1,84 @@
+.footer {
+  background-color: #462b49;
+  color: #fff;
+  padding: 20px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 92%;
+}
+
+.footer-company-details {
+  width: 35%;
+  padding: 20px;
+}
+.footer-link-details {
+  width: 25%;
+  padding: 20px;
+}
+
+.footer-social-details {
+  width: 15%;
+  padding: 20px;
+  display: flex;
+  align-items: end;
+}
+
+.footer-logo {
+  margin: 20px;
+  width: 150px;
+  filter: brightness(0) invert(1);
+}
+
+.phone-rotate {
+  transform: rotate(90deg);
+}
+
+.footer-address {
+  margin: 20px;
+  font-size: 20px;
+  font-family: "Metropolis-SemiBold", sans-serif;
+  color: white;
+}
+
+.footer-contact {
+  margin: 20px;
+  font-size: 20px;
+  font-family: "Metropolis-SemiBold", sans-serif;
+  color: white;
+}
+.footer-mail a {
+  margin: 20px;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: "Metropolis-SemiBold", sans-serif;
+  color: white;
+}
+
+.footer-links {
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+.footer-links li {
+  padding: 20px 0px;
+}
+
+.footer-links li a {
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Metropolis-SemiBold", sans-serif;
+  color: white;
+}
+
+.footer-social {
+  list-style-type: none;
+  text-decoration: none;
+  margin: 0px 20px;
+  padding-bottom:40px ;
+  color: white;
+}
